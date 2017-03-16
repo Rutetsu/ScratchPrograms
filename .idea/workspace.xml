@@ -19,7 +19,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234">
+            <state relative-caret-position="759">
               <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,6 +53,7 @@
         <option value="Rutetsu &lt;j.katigb@gmail.com&gt;" />
       </list>
     </option>
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -763,7 +764,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489353134479</updated>
       <workItem from="1489353138510" duration="3890000" />
-      <workItem from="1489659746081" duration="5275000" />
+      <workItem from="1489659746081" duration="5372000" />
     </task>
     <task id="LOCAL-00001" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
       <created>1489663529766</created>
@@ -786,11 +787,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489664754677</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
+      <created>1489665234609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1489665234609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9165000" />
+    <option name="totallyTimeSpent" value="9262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="0" width="1944" height="2034" extended-state="0" />
@@ -903,7 +911,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
+        <state relative-caret-position="759">
           <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
