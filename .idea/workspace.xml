@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4444c9cc-5c88-4431-9b9e-b781e2c19a3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScratchPrograms.iml" />
-    </list>
+    <list default="true" id="4444c9cc-5c88-4431-9b9e-b781e2c19a3f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,6 +45,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Rutetsu &lt;j.katigb@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -765,7 +760,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489353134479</updated>
       <workItem from="1489353138510" duration="3890000" />
-      <workItem from="1489659746081" duration="4724000" />
+      <workItem from="1489659746081" duration="4781000" />
     </task>
     <task id="LOCAL-00001" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
       <created>1489663529766</created>
@@ -778,7 +773,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8614000" />
+    <option name="totallyTimeSpent" value="8671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="0" width="1944" height="2034" extended-state="0" />
