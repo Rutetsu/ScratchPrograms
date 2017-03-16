@@ -146,7 +146,7 @@
     <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
@@ -764,7 +764,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489353134479</updated>
       <workItem from="1489353138510" duration="3890000" />
-      <workItem from="1489659746081" duration="5372000" />
+      <workItem from="1489659746081" duration="5457000" />
     </task>
     <task id="LOCAL-00001" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
       <created>1489663529766</created>
@@ -794,11 +794,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489665234609</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
+      <created>1489665332593</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489665332593</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9262000" />
+    <option name="totallyTimeSpent" value="9347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="0" width="1944" height="2034" extended-state="0" />
