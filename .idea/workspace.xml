@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4444c9cc-5c88-4431-9b9e-b781e2c19a3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$" afterPath="$PROJECT_DIR$" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -764,7 +763,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489353134479</updated>
       <workItem from="1489353138510" duration="3890000" />
-      <workItem from="1489659746081" duration="5643000" />
+      <workItem from="1489659746081" duration="5674000" />
     </task>
     <task id="LOCAL-00001" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
       <created>1489663529766</created>
@@ -815,11 +814,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489665511127</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practice from Little Schemer (Ch. 3 &quot;Cons the Magnificent&quot;).&#10;//Java Implementation">
+      <created>1489665607948</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1489665607948</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9533000" />
+    <option name="totallyTimeSpent" value="9564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="0" width="1944" height="2034" extended-state="0" />
